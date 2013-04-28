@@ -1,0 +1,378 @@
+Initialize engine version: 4.0.1f2
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1114]
+    Renderer: ATI Radeon HD 4600 Series
+    Vendor:   ATI
+    VRAM:     1017 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 DF24=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Ryan\Dropbox\Unity3D-GroupGame\Old\SphereRollerFinal!(Steven)\SphereRoller_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Ryan\Dropbox\Unity3D-GroupGame\Old\SphereRollerFinal!(Steven)\SphereRoller_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Ryan\Dropbox\Unity3D-GroupGame\Old\SphereRollerFinal!(Steven)\SphereRoller_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Ryan\Dropbox\Unity3D-GroupGame\Old\SphereRollerFinal!(Steven)\SphereRoller_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.067 seconds
+desktop: 1280x1024 60Hz; virtual: 1280x1024 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 176. Operation took 2.428607 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 177. Operation took 3.690351 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 444. Operation took 3.828471 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 178. Operation took 3.676974 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 445. Operation took 3.704972 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 178. Operation took 3.653954 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 445. Operation took 3.821938 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 178. Operation took 3.637467 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 445. Operation took 3.820383 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 178. Operation took 3.816339 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 445. Operation took 2.437317 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 178. Operation took 3.570896 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 445. Operation took 2.065576 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 178. Operation took 2.791327 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 445. Operation took 3.547254 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 178. Operation took 3.625646 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 445. Operation took 3.773721 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 178. Operation took 3.827849 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 445. Operation took 3.767188 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 178. Operation took 3.619425 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 445. Operation took 3.715860 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 178. Operation took 3.567785 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 178. Operation took 3.006284 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 445. Operation took 3.619113 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 178. Operation took 3.669509 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 445. Operation took 3.529833 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 178. Operation took 3.760033 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 445. Operation took 3.619425 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 178. Operation took 3.651466 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 445. Operation took 3.814161 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 178. Operation took 2.288310 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 178. Operation took 3.667331 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 445. Operation took 1.743607 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 178. Operation took 3.757855 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 445. Operation took 3.595160 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 178. Operation took 3.771854 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 445. Operation took 3.761588 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 178. Operation took 3.563741 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 445. Operation took 2.218006 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 178. Operation took 3.800162 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 445. Operation took 2.409631 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 178. Operation took 3.662354 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 445. Operation took 3.765321 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 178. Operation took 3.649910 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 445. Operation took 3.778076 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 178. Operation took 2.395011 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 445. Operation took 3.560319 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 178. Operation took 2.657563 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 445. Operation took 3.030860 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 178. Operation took 1.516207 ms.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Mono/MonoBehaviour.cpp Line: 1591)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 445. Operation took 3.742924 ms.
